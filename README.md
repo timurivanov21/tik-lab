@@ -14,7 +14,7 @@ ___
 ___
 
 ### Временная сложность
-O(n) - ?
+O(n logn)
 ___
 ### Пример
 ![](https://cf2.ppt-online.org/files2/slide/7/7ngaXCkYsEtDrmZLyq2Wvp3O0GFUz6198cuwfJ/slide-6.jpg)
